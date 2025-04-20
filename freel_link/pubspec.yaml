@@ -9,7 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
+  firebase_core: ^2.24.2
+  
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -17,3 +18,4 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+

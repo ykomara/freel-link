@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803125542787",
+    "project_id": "freellink-93a03",
+    "storage_bucket": "freellink-93a03.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803125542787:android:7e75cddce0a1bb597d80b6",
+        "android_client_info": {
+          "package_name": "com.example.freel_link"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ4mrc_4j8vv0lTYM9eb_Pg_kyEFpyPnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
